@@ -24,3 +24,5 @@ Adapun langkah-langkah yang diperlukan dalam algoritma FP-Growth adalah sebagai 
 2. Bangun pohon FP berdasarkan transaksi yang tersedia  
 3. Dari FP-Tree yang ada, buat FP-conditional tree untuk setiap item (atau itemset).
 4. Tentukan pola *frequent pattern*
+
+> untuk kode dan penjelasannya silahkan ke [Machine Learning.ipynb](https://github.com/takdim/Association_Rules/blob/main/Machine_Learning.ipynb)
